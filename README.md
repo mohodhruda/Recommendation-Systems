@@ -15,7 +15,7 @@ Recommender systems are algorithms aimed at suggesting relevant items to users (
 
 Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors. As a proof of the importance of recommender systems, we can mention that, a few years ago, Netflix organised a challenge (the "Netflix prize") where the goal was to produce a recommender system that performs better than its own algorithm with a prize of 1 million dollars to win.
 
-![xDeepFM](https://github.com/Nikhilkohli1/Digital-Marketing-Analytics/blob/master/Assignment4/Images/model1.PNG)
+![xDeepFM](https://github.com/mohodhruda/Recommendation-Systems/blob/master/Images/model1.PNG)
 
 ## Extreme Deep Factorization
 
